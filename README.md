@@ -15,7 +15,7 @@ but rst does not support javascript, which is a BIG disadvantage.
 
 Haven't start working yet, So any suggestion are welcome.
 
-You can post issues at github or email me at rykka@foxmail.com.
+You can post issues at [github](https://github.com/Rykka/miv.vim) or email me at rykka@foxmail.com.
 
 
 ----

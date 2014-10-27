@@ -7,7 +7,7 @@ I Want to write a Better markdown writing plugin for vim.
 
 **Reason**
 
-Though rst in vim [Riv.vim](https://github.com/Rykka/riv.vim) is enough for writing.
+Though rst with [Riv.vim](https://github.com/Rykka/riv.vim) is enough for writing.
 
 but rst does not support javascript, which is a BIG disadvantage.
 

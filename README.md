@@ -22,5 +22,5 @@ You can post issues at [github](https://github.com/Rykka/miv.vim) or email me at
 
 I thought I should use javascript lib to finish it.
 
-Though vim does not support native scripting is a BIG disadvantage.
+Though vim does not support native javascript scripting is a BIG disadvantage.
 

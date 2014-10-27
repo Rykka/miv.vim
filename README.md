@@ -9,6 +9,7 @@ Though rst in vim [Riv.vim](https://github.com/Rykka/riv.vim) is enough for writ
 
 but rst does not support javascript, which is a BIG disadvantage.
 
+----
 
 Haven't start working yet, So any suggestion are welcome.
 

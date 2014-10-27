@@ -3,11 +3,11 @@
 Markdown in Vim.
 
 
-Reason:
+*Reason*
 
-    Though rst in vim [Riv.vim](https://github.com/Rykka/riv.vim) is enough for writing.
+Though rst in vim [Riv.vim](https://github.com/Rykka/riv.vim) is enough for writing.
 
-    but rst does not support javascript, which is a BIG disadvantage.
+but rst does not support javascript, which is a BIG disadvantage.
 
 
 Haven't start working yet, So any suggestion are welcome.
